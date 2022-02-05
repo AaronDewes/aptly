@@ -1,6 +1,7 @@
-aptly (1.4.1~molior4) UNRELEASED; urgency=medium
+aptly (1.4.1~molior5) UNRELEASED; urgency=medium
 
   * debianize
   * bump version 1.4.1~molior4
+  * bump version 1.4.1~molior5
 
- -- André Roth <neolynx@gmail.com>  Sat, 05 Feb 2022 23:08:22 +0100
+ -- André Roth <neolynx@gmail.com>  Sat, 05 Feb 2022 23:12:49 +0100
