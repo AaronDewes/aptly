@@ -1,3 +1,9 @@
+aptly (1.5.0~molior3) stable; urgency=medium
+
+  * bump version 1.5.0~molior3
+
+ -- André Roth <andre.roth@roche.com>  Sat, 18 Mar 2023 17:45:59 +0100
+
 aptly (1.5.0~molior2) stable; urgency=medium
 
   * make compatible with go 2.15
