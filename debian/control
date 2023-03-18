@@ -34,6 +34,7 @@ Build-Depends: debhelper (>= 11),
                golang-github-cavaliergopher-grab-dev,
                golang-golang-x-time-dev,
                golang-github-azure-azure-storage-blob-go-dev,
+               golang-github-klauspost-compress-dev,
                git-core
 Standards-Version: 4.2.1
 Homepage: https://github.com/aptly-dev/aptly
