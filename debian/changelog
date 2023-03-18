@@ -1,10 +1,10 @@
-aptly (1.5.0.molior2) stable; urgency=medium
+aptly (1.5.0~molior2) stable; urgency=medium
 
   * make compatible with go 2.15
 
  -- André Roth <andre.roth@roche.com>  Sat, 18 Mar 2023 17:32:16 +0100
 
-aptly (1.5.0.molior1) stable; urgency=medium
+aptly (1.5.0~molior1) stable; urgency=medium
 
   * debianize
   * Feature: Add Merge Snapshot API
