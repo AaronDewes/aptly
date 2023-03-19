@@ -37,7 +37,7 @@ Build-Depends: debhelper (>= 11),
                golang-github-klauspost-compress-dev,
                golang-github-klauspost-pgzip-dev,
 #               golang-github-prometheus-client-golang-dev,
-               golang-github-rs-zerolog-dev,
+               golang-github-rs-zerolog-dev (> 1.20.0-1),
                golang-github-mattn-go-colorable-dev,
                git-core
 Standards-Version: 4.2.1
