@@ -5,3 +5,4 @@ targets:
 build_after:
   - "golang-github-cavaliercoder-grab"
   - "golang-github-rs-zerolog"
+  - "golang-github-azure-azure-storage-blob-go"
