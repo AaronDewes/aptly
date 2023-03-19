@@ -1,3 +1,9 @@
+aptly (1.5.0~molior14) stable; urgency=medium
+
+  * debian: disable MetricsCollectorRegistrar
+
+ -- André Roth <andre.roth@roche.com>  Sun, 19 Mar 2023 12:07:53 +0100
+
 aptly (1.5.0~molior13) stable; urgency=medium
 
   * debian: disable JSONLogger
