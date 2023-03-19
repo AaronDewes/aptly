@@ -1,3 +1,9 @@
+aptly (1.5.0.molior4) stable; urgency=medium
+
+  * debian: add build order dependency
+
+ -- André Roth <andre.roth@roche.com>  Sun, 19 Mar 2023 19:25:41 +0100
+
 aptly (1.5.0.molior3) stable; urgency=medium
 
   * debian: fix dependencies
