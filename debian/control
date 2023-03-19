@@ -36,9 +36,9 @@ Build-Depends: debhelper (>= 11),
                golang-github-azure-azure-storage-blob-go-dev,
                golang-github-klauspost-compress-dev,
                golang-github-klauspost-pgzip-dev,
-# golang-github-prometheus-client-golang-dev,
-               golang-github-rs-zerolog-dev,
-               golang-github-mattn-go-colorable-dev,
+#               golang-github-prometheus-client-golang-dev,
+#               golang-github-rs-zerolog-dev,
+#               golang-github-mattn-go-colorable-dev,
                git-core
 Standards-Version: 4.2.1
 Homepage: https://github.com/aptly-dev/aptly
