@@ -15,11 +15,11 @@ import (
 
 var context *ctx.AptlyContext
 
-func apiMetricsGet() gin.HandlerFunc {
-	return func(c *gin.Context) {
-		promhttp.Handler().ServeHTTP(c.Writer, c.Request)
-	}
-}
+//func apiMetricsGet() gin.HandlerFunc {
+	//return func(c *gin.Context) {
+		//promhttp.Handler().ServeHTTP(c.Writer, c.Request)
+	//}
+//}
 
 // Router returns prebuilt with routes http.Handler
 func Router(c *ctx.AptlyContext) http.Handler {
@@ -86,9 +86,9 @@ func Router(c *ctx.AptlyContext) http.Handler {
 	root := router.Group("/api")
 
 	{
-		if c.Config().EnableMetricsEndpoint {
-			root.GET("/metrics", apiMetricsGet())
-		}
+		//if c.Config().EnableMetricsEndpoint {
+			//root.GET("/metrics", apiMetricsGet())
+		//}
 		root.GET("/version", apiVersion)
 
 		isReady := &atomic.Value{}
