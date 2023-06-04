@@ -1,3 +1,9 @@
+aptly (1.5.0~molior) stable; urgency=medium
+
+  * Bump aptly to 1.5.0
+
+ -- Aaron Dewes <aaron@nirvati.org>  Sun, 04 Jun 2023 18:12:59 +0000
+
 aptly (1.4.1~molior3) stable; urgency=medium
 
   * bump version 1.4.1~molior3
