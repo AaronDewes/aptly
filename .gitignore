@@ -45,3 +45,8 @@ build/
 pgp/keyrings/aptly2*.gpg
 pgp/keyrings/aptly2*.gpg~
 pgp/keyrings/.#*
+
+# Debian builds
+obj-x86_64-linux-gnu
+*.buildinfo
+*.changes
